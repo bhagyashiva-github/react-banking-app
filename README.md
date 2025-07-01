@@ -33,4 +33,4 @@ This project was bootstrapped with [Create React App]
 - Search functionality in transaction history
 
 ## Author 
-**Bhagya Sri Ramkumar**
+Bhagya Sri Ramkumar
