@@ -36,4 +36,7 @@ This project was bootstrapped with [Create React App]
 Bhagya Sri Ramkumar
 
 ## Dashboard UI 
-https://github.com/bhagyashiva-github/react-retail-banking-dashboard/issues/1
+![AccountsTab](https://github.com/user-attachments/assets/70275227-900b-451d-b4af-a59166b21f37)
+![PaymentsTab](https://github.com/user-attachments/assets/d7921427-ece5-4ae6-9063-25e54f318c34)
+![CardsTab](https://github.com/user-attachments/assets/1af70858-9ae4-4fb3-8041-9d3bb752cb92)
+![TransactionsTab](https://github.com/user-attachments/assets/b5d6e766-039f-41a8-b685-b18456ed3d79)
